@@ -1,0 +1,6 @@
+{
+  "name": "CampusIQ - Genie Campus Intelligence",
+  "description": "Databricks & Genie-powered creative campus intelligence and opportunity navigator connecting students with people, research, clubs, roadmap recommendations, and off-campus opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
